@@ -1,4 +1,17 @@
-== README
+== Web Entwicklung 2 WS 2014/2015
+
+ein Projekt von Eddy Hauzel/Gauzel/Mauzel, Sergei Fährlich, TimmelPimmel und Max.
+
+Hier findet ihr * Installationhinweise
+                * Information darüber, was das Programm kann
+                * Besonderheiten
+                * evtl Aufteilung der Projetaufgaben
+
+
+
+
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
