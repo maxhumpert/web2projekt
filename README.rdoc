@@ -2,7 +2,8 @@
 
 ein Projekt von Eddy Hauzel/Gauzel/Mauzel, Sergei Fährlich, TimmelPimmel und Max.
 
-Hier findet ihr * Installationhinweise
+Hier findet ihr 
+                * Installationhinweise
                 * Information darüber, was das Programm kann
                 * Besonderheiten
                 * evtl Aufteilung der Projetaufgaben
