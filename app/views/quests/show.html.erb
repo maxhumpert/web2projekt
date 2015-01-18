@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong> title:</strong>
+  <%= @quest. title %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @quest.description %>
+</p>
+
+<p>
+  <strong>Image url:</strong>
+  <%= @quest.image_url %>
+</p>
+
+<p>
+  <strong>Points:</strong>
+  <%= @quest.points %>
+</p>
+
+<%= link_to 'Edit', edit_quest_path(@quest) %> |
+<%= link_to 'Back', quests_path %>
